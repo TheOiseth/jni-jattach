@@ -1,3 +1,14 @@
+## jni-jattach
+
+### JVM Dynamic Attach library
+
+Is a jni implementation of the [apangin/jattach](https://github.com/apangin/jattach) utility
+
+The utility to send commands to remote JVM via Dynamic Attach mechanism.
+
+All-in-one **jmap + jstack + jcmd + jinfo** functionality in a single tiny program.  
+No installed JDK required, works with just JRE.
+
 This is the lightweight native version of HotSpot Attach API  
 https://docs.oracle.com/javase/8/docs/jdk/api/attach/spec/
 
